@@ -1,0 +1,10 @@
+.obj
+obj/GB_SpecProj.csproj.nuget.dgspec.json
+obj/GB_SpecProj.csproj.nuget.g.props
+obj/GB_SpecProj.csproj.nuget.g.targets
+obj/project.assets.json
+obj/project.nuget.cache
+.vscode/launch.json
+.vscode/launch.json
+.vscode/tasks.json
+GB_SpecProj.csproj
