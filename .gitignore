@@ -24,3 +24,4 @@ obj/project.nuget.cache
 .vscode/launch.json
 .vscode/tasks.json
 GB_SpecProj.csproj
+.__pycache__
