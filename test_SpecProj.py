@@ -1,6 +1,6 @@
 import unittest
 
-from SpecProj import fill_array, three_or_less
+from SpecProj import three_or_less
 
 
 class TestMethods(unittest.TestCase):

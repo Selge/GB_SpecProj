@@ -10,6 +10,7 @@
 
     class Program
     {
+        // The basic method: gets an array as income and returns a new array
         public static string [] Triple(string [] array)
         {
             string [] triple_array = new string[0];
@@ -25,6 +26,7 @@
             return triple_array;
         }
 
+        // The additional method: to fill a new array manually
         public static string [] Income()
         {
             string [] array = new string [0];
