@@ -4,15 +4,14 @@
     {
         static void Main()
         {
-            Program.Triple();
+            Program.Triple(Program.Income());
         }
     }
 
     class Program
     {
-        public static string [] Triple()
+        public static string [] Triple(string [] array)
         {
-            string [] array = Income();
             string [] triple_array = new string[0];
 
             for (int i = 0; i < array.Length; i++)

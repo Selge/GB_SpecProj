@@ -11,8 +11,7 @@ def fill_array():
     return array
 
 
-def three_or_less():
-    array = fill_array()
+def three_or_less(array):
     triple_array = []
     for i in array:
         if len(i) <= 3:
@@ -21,4 +20,5 @@ def three_or_less():
 
 
 if __name__ == '__main__':
-    three_or_less() 
+    three_or_less(fill_array())
+
